@@ -1,0 +1,24 @@
+{
+  "Bo": [{ "target": "Tipedo", "count": 1 }],
+  "Tipedo": [{ "target": "Lesion", "count": 1 }],
+  "Lato": [
+    { "target": "Aklato", "count": 2 },
+    { "target": "Bolto", "count": 1 }
+  ],
+  "Bolto": [{ "target": "Akbolto", "count": 2 }],
+  "Akbolto": [{ "target": "Akjagara", "count": 1 }],
+  "Dual Skana": [{ "target": "Akjagara", "count": 1 }],
+  "Kraken": [{ "target": "Kulstar", "count": 1 }],
+  "Grakata": [{ "target": "Twin Grakatas", "count": 2 }],
+  "Vasto": [{ "target": "Akvasto", "count": 2 }],
+  "Furis": [{ "target": "Afuris", "count": 2 }],
+  "Hikou": [{ "target": "Spira", "count": 1 }],
+  "Miter": [{ "target": "Panthera", "count": 1 }],
+  "Cernos": [{ "target": "Mutalist Cernos", "count": 1 }],
+  "Atomos": [{ "target": "Twin Basolk", "count": 1 }],
+  "Dual Zoren": [{ "target": "Twin Basolk", "count": 1 }],
+  "Kronen": [{ "target": "Boltace", "count": 1 }],
+  "Kogake": [{ "target": "Hirudo", "count": 1 }],
+  "Ankyros": [{ "target": "Ripkas", "count": 1 }],
+  "Furax": [{ "target": "Knux", "count": 1 }]
+}

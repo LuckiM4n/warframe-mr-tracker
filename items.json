@@ -1,0 +1,7722 @@
+[
+  {
+    "id": "_Lotus_Powersuits_Ninja_Ninja",
+    "name": "Ash",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Ninja_AshPrime",
+    "name": "Ash Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Brawler_Brawler",
+    "name": "Atlas",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Brawler_AtlasPrime",
+    "name": "Atlas Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Banshee_Banshee",
+    "name": "Banshee",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Banshee_BansheePrime",
+    "name": "Banshee Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Pacifist_Pacifist",
+    "name": "Baruuk",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Pacifist_BaruukPrime",
+    "name": "Baruuk Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_EntratiMech_ThanoTech",
+    "name": "Bonewidow",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Powersuits_Sentient_Sentient",
+    "name": "Caliban",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Sentient_CalibanPrime",
+    "name": "Caliban Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Dragon_Dragon",
+    "name": "Chroma",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Dragon_ChromaPrime",
+    "name": "Chroma Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Geode_Geode",
+    "name": "Citrine",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Geode_CitrinePrime",
+    "name": "Citrine Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Frumentarius_Frumentarius",
+    "name": "Cyte-09",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Dagath_Dagath",
+    "name": "Dagath",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Pagemaster_Pagemaster",
+    "name": "Dante",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Ember_Ember",
+    "name": "Ember",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Ember_EmberPrime",
+    "name": "Ember Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_YinYang_YinYang",
+    "name": "Equinox",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_YinYang_EquinoxPrime",
+    "name": "Equinox Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Excalibur_Excalibur",
+    "name": "Excalibur",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Excalibur_ExcaliburPrime",
+    "name": "Excalibur Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Excalibur_ExcaliburUmbra",
+    "name": "Excalibur Umbra",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Inkblot_Inkblot",
+    "name": "Follie",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Frost_Frost",
+    "name": "Frost",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Frost_FrostPrime",
+    "name": "Frost Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Glass_Glass",
+    "name": "Gara",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Glass_GaraPrime",
+    "name": "Gara Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Garuda_Garuda",
+    "name": "Garuda",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Garuda_GarudaPrime",
+    "name": "Garuda Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Runner_Runner",
+    "name": "Gauss",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Runner_GaussPrime",
+    "name": "Gauss Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Devourer_Devourer",
+    "name": "Grendel",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Devourer_GrendelPrime",
+    "name": "Grendel Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Gyre_Gyre",
+    "name": "Gyre",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Gyre_GyrePrime",
+    "name": "Gyre Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Priest_Priest",
+    "name": "Harrow",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Priest_HarrowPrime",
+    "name": "Harrow Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_PowersuitAbilities_Helminth",
+    "name": "Helminth",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_IronFrame_IronFrame",
+    "name": "Hildryn",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_IronFrame_IronFramePrime",
+    "name": "Hildryn Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Pirate_Pirate",
+    "name": "Hydroid",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Pirate_HydroidPrime",
+    "name": "Hydroid Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Sandman_Sandman",
+    "name": "Inaros",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Sandman_InarosPrime",
+    "name": "Inaros Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Ranger_Ranger",
+    "name": "Ivara",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Ranger_IvaraPrime",
+    "name": "Ivara Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Choir_Choir",
+    "name": "Jade",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Khora_Khora",
+    "name": "Khora",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Khora_KhoraPrime",
+    "name": "Khora Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Koumei_Koumei",
+    "name": "Koumei",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_PaxDuviricus_PaxDuviricus",
+    "name": "Kullervo",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Alchemist_Alchemist",
+    "name": "Lavos",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Alchemist_LavosPrime",
+    "name": "Lavos Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Magician_Magician",
+    "name": "Limbo",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Magician_LimboPrime",
+    "name": "Limbo Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Loki_Loki",
+    "name": "Loki",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Loki_LokiPrime",
+    "name": "Loki Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Mag_Mag",
+    "name": "Mag",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Mag_MagPrime",
+    "name": "Mag Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Cowgirl_Cowgirl",
+    "name": "Mesa",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Cowgirl_MesaPrime",
+    "name": "Mesa Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Harlequin_Harlequin",
+    "name": "Mirage",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Harlequin_MiragePrime",
+    "name": "Mirage Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Duelist_Duelist",
+    "name": "Narin",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Necro_Necro",
+    "name": "Nekros",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Necro_NekrosPrime",
+    "name": "Nekros Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Nezha_Nezha",
+    "name": "Nezha",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Nezha_NezhaPrime",
+    "name": "Nezha Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Infestation_Infestation",
+    "name": "Nidus",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Infestation_InfestationPrime",
+    "name": "Nidus Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Nokko_Nokko",
+    "name": "Nokko",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_AntiMatter_Anti",
+    "name": "Nova",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_AntiMatter_NovaPrime",
+    "name": "Nova Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Jade_Jade",
+    "name": "Nyx",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Jade_NyxPrime",
+    "name": "Nyx Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Paladin_Paladin",
+    "name": "Oberon",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Paladin_PaladinPrime",
+    "name": "Oberon Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Bard_Bard",
+    "name": "Octavia",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Bard_OctaviaPrime",
+    "name": "Octavia Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Oraxia_Oraxia",
+    "name": "Oraxia",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Odalisk_Odalisk",
+    "name": "Protea",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Odalisk_ProteaPrime",
+    "name": "Protea Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_ConcreteFrame_ConcreteFrame",
+    "name": "Qorvex",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Revenant_Revenant",
+    "name": "Revenant",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Revenant_RevenantPrime",
+    "name": "Revenant Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Rhino_Rhino",
+    "name": "Rhino",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Rhino_RhinoPrime",
+    "name": "Rhino Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Saryn_Saryn",
+    "name": "Saryn",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Saryn_SarynPrime",
+    "name": "Saryn Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Wraith_Wraith",
+    "name": "Sevagoth",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Wraith_SevagothPrime",
+    "name": "Sevagoth Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_SiriusOrion_SiriusSuit",
+    "name": "Sirius & Orion",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Hoplite_Hoplite",
+    "name": "Styanax",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Hoplite_StyanaxPrime",
+    "name": "Styanax Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Temple_Temple",
+    "name": "Temple",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Fairy_Fairy",
+    "name": "Titania",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Fairy_TitaniaPrime",
+    "name": "Titania Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Trinity_Trinity",
+    "name": "Trinity",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Trinity_TrinityPrime",
+    "name": "Trinity Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_DemonFrame_DemonFrame",
+    "name": "Uriel",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Berserker_Berserker",
+    "name": "Valkyr",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Berserker_ValkyrPrime",
+    "name": "Valkyr Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Trapper_Trapper",
+    "name": "Vauban",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Trapper_TrapperPrime",
+    "name": "Vauban Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_EntratiMech_NechroTech",
+    "name": "Voidrig",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Powersuits_Volt_Volt",
+    "name": "Volt",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Volt_VoltPrime",
+    "name": "Volt Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Werewolf_Werewolf",
+    "name": "Voruna",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Werewolf_VorunaPrime",
+    "name": "Voruna Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Wisp_Wisp",
+    "name": "Wisp",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Wisp_WispPrime",
+    "name": "Wisp Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_MonkeyKing_MonkeyKing",
+    "name": "Wukong",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_MonkeyKing_WukongPrime",
+    "name": "Wukong Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_BrokenFrame_BrokenFrame",
+    "name": "Xaku",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_BrokenFrame_XakuPrime",
+    "name": "Xaku Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Yareli_Yareli",
+    "name": "Yareli",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Yareli_YareliPrime",
+    "name": "Yareli Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Powersuits_Tengu_Tengu",
+    "name": "Zephyr",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Tengu_ZephyrPrime",
+    "name": "Zephyr Prime",
+    "group": "equipment",
+    "sub": "Warframes",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_SapientPrimary_SapientPrimaryWeapon",
+    "name": "Acceltra",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeAcceltra_PrimeAcceltraWeapon",
+    "name": "Acceltra Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnRifleErsatz_TnRifleErsatzWeapon",
+    "name": "Aeolak",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnHopliteSpear_TnHopliteSpearGunWeapon",
+    "name": "Afentis",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeAfentis_PrimeAfentisWeapon",
+    "name": "Afentis Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_GyreRifle_GyreRifleWeapon",
+    "name": "Alternox",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeAlternox_PrimeAlternoxWeapon",
+    "name": "Alternox Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpArSniper_CrpArSniperRifle",
+    "name": "Ambassador",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_ChainLightningGun_ChainLightningRifle",
+    "name": "Amprex",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpShotgun_CrpShotgun",
+    "name": "Arca Plasmor",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_LaserAimRifle_LaserAimRifle",
+    "name": "Argonak",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnGlassShotgun_TnGlassShotgunGun",
+    "name": "Astilla",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeAstilla_AstillaPrimeWeapon",
+    "name": "Astilla Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnoPrmryXbow_TnoPrmryXbowWeapon",
+    "name": "Attica",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Lasria_AK47_TC2024AK47Weapon",
+    "name": "Ax-52",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Sentients_SentRifleNewWar_SentRifleNewWarGun",
+    "name": "Basmu",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpSentExperimentRifle_CrpSentExperimentRifle",
+    "name": "Battacor",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnSMG_TnSMGWeapon",
+    "name": "Baza",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeBaza_PrimeBazaGun",
+    "name": "Baza Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Shotgun_FullAutoShotgun",
+    "name": "Boar",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Shotgun_PrimeBoar",
+    "name": "Boar Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Rifle_BoltoRifle",
+    "name": "Boltor",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeBoltor_PrimeBoltor",
+    "name": "Boltor Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Rifle_Rifle",
+    "name": "Braton",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 1
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Rifle_BratonPrime",
+    "name": "Braton Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Rifle_VIPRifle",
+    "name": "Braton Vandal",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_LongGuns_InfArmCannon_InfArmCannon",
+    "name": "Bubonico",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Rifle_BurstRifle",
+    "name": "Burston",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeBurston_PrimeBurston",
+    "name": "Burston Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrnGorgSniperRifle_GrnGorgSniperRifle",
+    "name": "Buzlok",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_GrenadeLauncher_CarminePenta",
+    "name": "Carmine Penta",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnAlchemistShotgun_TnAlchemistShotgun",
+    "name": "Cedo",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeCedo_PrimeCedoWeapon",
+    "name": "Cedo Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Bows_AntlerBow_AntlerBow",
+    "name": "Cernos",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Bows_PrimeCernos_PrimeCernos",
+    "name": "Cernos Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Bows_DaxDuviriAsymetricalBow_DaxDuviriAsymmetricalLongBowPlayerWeapon",
+    "name": "Cinta",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_LongGuns_1999InfShotgun_1999InfShotgunWeapon",
+    "name": "Coda Bassocyst",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_LongGuns_CodaBubonico_CodaBubonicoCannon",
+    "name": "Coda Bubonico",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_LongGuns_CodaHema",
+    "name": "Coda Hema",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_LongGuns_CodaSporothrix",
+    "name": "Coda Sporothrix",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_LongGuns_CodaSynapse",
+    "name": "Coda Synapse",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpSplitLaser_CrpSplitLaser",
+    "name": "Convectrix",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnHeavyShotgun_TnHeavyShotgunGun",
+    "name": "Corinth",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeCorinth_PrimeCorinth",
+    "name": "Corinth Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Bows_AsymetricalBow_AsymetricalBow",
+    "name": "Daikyu",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Bows_PrimeDaikyu_PrimeDaikyuBow",
+    "name": "Daikyu Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_ClanTech_Energy_EnergyRifle",
+    "name": "Dera",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_ClanTech_Energy_DeraVandal",
+    "name": "Dera Vandal",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_DexTheThird_DexTheThird",
+    "name": "Dex Sybaris",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrineerFlakCannon_FlakCannon",
+    "name": "Drakgoon",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Bows_StalkerBow",
+    "name": "Dread",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Lasria_LasGooAK_LasGooAKPlayerWeapon",
+    "name": "Efv-5 Jupiter",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnInkRifle_TnInkRifleWeapon",
+    "name": "Enkaus",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Bows_TnChoirBow_TnChoirBow",
+    "name": "Evensong",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpShapeBlast_CrpShapeBlastShotgun",
+    "name": "Exergis",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Zariman_LongGuns_PumpShotgun_ZarimanPumpShotgun",
+    "name": "Felarx",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_Spears_Railgun_CorpusRailgun",
+    "name": "Ferrox",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_ClanTech_Energy_CrpLaserRifle",
+    "name": "Flux Rifle",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnWispRifle_TnWispRifle",
+    "name": "Fulmin",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeFulmin_PrimeFulmin",
+    "name": "Fulmin Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpFreezeRay_CrpFreezeRayRifle",
+    "name": "Glaxion",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpFreezeRay_Vandal_CrpFreezeRayVandalRifle",
+    "name": "Glaxion Vandal",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Rifle_HeavyRifle",
+    "name": "Gorgon",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_WraithGorgon_WraithGorgon",
+    "name": "Gorgon Wraith",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrnOrokinRifle_GrnOrokinRifleWeapon",
+    "name": "Gotva Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrineerAssaultRifle_GrnAssaultRifle",
+    "name": "Grakata",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrineerLeverActionRifle_GLARifle",
+    "name": "Grinlok",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Sentients_SentOctaMiniGun_SentOctaMiniGun",
+    "name": "Haalvu",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrnHarpoonGun_GrnHarpoonGun",
+    "name": "Harpak",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Shotgun_QuadShotgun",
+    "name": "Hek",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_LongGuns_InfWFAccompanyingPri_InfestedBurstRifle",
+    "name": "Hema",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_Gunbrella_ShrineMaidenGunbrellaWeapon",
+    "name": "Higasa",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_BurstRifle_GrnBurstRifle",
+    "name": "Hind",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_ClanTech_Chemical_FlameThrower",
+    "name": "Ignis",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_ClanTech_Chemical_FlameThrowerWraith",
+    "name": "Ignis Wraith",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrnFlameSpear_GrnFlameSpear",
+    "name": "Javlok",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrineerM16Homage_GrineerM16Rifle",
+    "name": "Karak",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrineerM16Homage_KarakWraith",
+    "name": "Karak Wraith",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrnSpark_GrnSparkRifle",
+    "name": "Kohm",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpSentAmlgSniper_CrpSentAmlgSniper",
+    "name": "Komorex",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Bows_GrnBow_GrnBowWeapon",
+    "name": "Kuva Bramma",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrnKuvaLichRifle_GrnKuvaLichRifleWeapon",
+    "name": "Kuva Chakkhurr",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_LongGuns_Drakgoon_KuvaDrakgoon",
+    "name": "Kuva Drakgoon",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_LongGuns_Hek_KuvaHekWeapon",
+    "name": "Kuva Hek",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_LongGuns_Hind_KuvaHind",
+    "name": "Kuva Hind",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_LongGuns_Karak_KuvaKarak",
+    "name": "Kuva Karak",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_LongGuns_Kohm_KuvaKohm",
+    "name": "Kuva Kohm",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_LongGuns_Ogris_KuvaOgris",
+    "name": "Kuva Ogris",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_LongGuns_Quartakk_KuvaQuartakk",
+    "name": "Kuva Quartakk",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_LongGuns_Sobek_KuvaSobek",
+    "name": "Kuva Sobek",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_LongGuns_Tonkor_KuvaTonkor",
+    "name": "Kuva Tonkor",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_LongGuns_Zarr_KuvaZarr",
+    "name": "Kuva Zarr",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_ClanTech_Energy_Railgun",
+    "name": "Lanka",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Rifle_SemiAutoRifle",
+    "name": "Latron",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Rifle_LatronPrime",
+    "name": "Latron Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_WraithLatron_WraithLatron",
+    "name": "Latron Wraith",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Bow_Longbow_CrpBow",
+    "name": "Lenz",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrineerSawbladeGun_SawBladeGun",
+    "name": "Miter",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Rifle_StartingRifle",
+    "name": "Mk1-Braton",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_MK1Series_MK1Paris",
+    "name": "Mk1-Paris",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_MK1Series_MK1Strun",
+    "name": "Mk1-Strun",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Bow_InfCernosBow_InfCernos",
+    "name": "Mutalist Cernos",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_LongGuns_InfCrpShockSwarm_InfCrpShockSwarmRifle",
+    "name": "Mutalist Quanta",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_GarudaCrossbow_GarudaCrossbow",
+    "name": "Nagantaka",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeNagantaka_PrimeNagantakaWeapon",
+    "name": "Nagantaka Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Bows_Omicrus_OmicrusPlayerWep",
+    "name": "Nataruk",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Bows_DuelistBow_DuelistBow",
+    "name": "Nunchasa",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_ClanTech_Chemical_RocketLauncher",
+    "name": "Ogris",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpBFG_CrpBFG",
+    "name": "Opticor",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpBFG_Vandal_VandalCrpBFG",
+    "name": "Opticor Vandal",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_Miter_TnoMiter",
+    "name": "Panthera",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimePanthera_PrimePanthera",
+    "name": "Panthera Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_LongGuns_QuantaFullyInfested_InfQuantaRifle",
+    "name": "Paracyst",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Bows_HuntingBow",
+    "name": "Paris",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Bows_PrimeHuntingBow",
+    "name": "Paris Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_GrenadeLauncher_GrenadeLauncher",
+    "name": "Penta",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnQuadSniper_TnQuadSniper",
+    "name": "Perigale",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimePerigale_PrimePerigaleSniper",
+    "name": "Perigale Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_LongGuns_Tentacluster_InfestedShotgun",
+    "name": "Phage",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_RevenantShotgun_RevenantShotgun",
+    "name": "Phantasma",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimePhantasma_PhantasmaPrimeShotgun",
+    "name": "Phantasma Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Zariman_LongGuns_SemiAutoRifle_ZarimanSemiAutoRifle",
+    "name": "Phenmor",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_VoidTraderGorgon_VTGorgon",
+    "name": "Prisma Gorgon",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_VoidTrader_PrismaGrakata",
+    "name": "Prisma Grakata",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrineerLeverActionRifle_PrismaGrinlokWeapon",
+    "name": "Prisma Grinlok",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Bow_Longbow_PrismaLenz_PrismaLenzWeapon",
+    "name": "Prisma Lenz",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CorpusUMP_PrismaCorpusUMP",
+    "name": "Prisma Tetra",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Bows_PrimeDerelictCernos_DerelictCernos",
+    "name": "Proboscis Cernos",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Lasria_LasGrenadeLauncher_LasrianNoxPlayerWeapon",
+    "name": "Purgator 1",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpShockRifle_CrpShockRifle",
+    "name": "Quanta",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpShockRifle_QuantaVandal",
+    "name": "Quanta Vandal",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrnFourBarrelRifle_GrnFourBarrelRifleWeapon",
+    "name": "Quartakk",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnRailjackRifle_RailjackRifleGun",
+    "name": "Quellor",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_RedVeil_Bows_RVCernos",
+    "name": "Rakta Cernos",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PaxDuviricusShotgun_PaxDuviricusShotgun",
+    "name": "Rauta",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnBeltFedRifle_TnBeltFedRifleWeapon",
+    "name": "Reconifex",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_FiveShotSniper_FiveShotSniper",
+    "name": "Rubico",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_RubicoPrime_RubicoPrimeWeapon",
+    "name": "Rubico Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_NewLoka_LongGuns_NLTigris",
+    "name": "Sancti Tigris",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnPriestSpear_TnPriestSpearGun",
+    "name": "Scourge",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeScourge_PrimeScourgeWeapon",
+    "name": "Scourge Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_PerrinSequence_LongGuns_PSPenta",
+    "name": "Secura Penta",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Sentients_Shedu_SheduHeavyWeapon",
+    "name": "Shedu",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Cephalon_Primary_CephPrimary_CephPrimary",
+    "name": "Simulor",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Operator_Pistols_DrifterPistol_DrifterPistolPlayerWeapon",
+    "name": "Sirocco",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Rifle_SniperRifle",
+    "name": "Snipetron",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Rifle_VandalSniperRifle",
+    "name": "Snipetron Vandal",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Shotgun_DoubleBarrelShotgun",
+    "name": "Sobek",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Rifle_TennoAR",
+    "name": "Soma",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeSoma_PrimeSomaRifle",
+    "name": "Soma Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_LongGuns_InfSniperRifle_InfSniperRifle",
+    "name": "Sporothrix",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpRubanRifle_CrpRubanRifle",
+    "name": "Stahlta",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnoLotusPodShotgun_TnoLotusPodShotgun",
+    "name": "Steflos",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeSteflos_PrimeSteflosShotgun",
+    "name": "Steflos Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TennoTommyGun_TennoTommyGunRifle",
+    "name": "Stradavar",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeStradavar_PrimeStradavarGun",
+    "name": "Stradavar Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Shotgun_Shotgun",
+    "name": "Strun",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 1
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeStrun_PrimeStrunWeapon",
+    "name": "Strun Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Shotgun_ShotgunVandal",
+    "name": "Strun Wraith",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_ClanTech_Energy_CrpHeavyRifle",
+    "name": "Supra",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_Machinegun_SupraVandal",
+    "name": "Supra Vandal",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnoLeverAction_TnoLeverActionRifle",
+    "name": "Sybaris",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeSybaris_PrimeSybarisRifle",
+    "name": "Sybaris Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_LongGuns_InfestedRifle",
+    "name": "Synapse",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_CephalonSuda_LongGuns_CSSimulor",
+    "name": "Synoid Simulor",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_ArbitersOfHexis_LongGuns_AHBoltor",
+    "name": "Telos Boltor",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_BoardExec_Primary_CrpBEArcaPlasmor_CrpBEArcaPlasmor",
+    "name": "Tenet Arca Plasmor",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CrpBriefcaseLauncher_CrpBriefcaseLauncher",
+    "name": "Tenet Envoy",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_BoardExec_Primary_CrpBEFerrox_CrpBEFerrox",
+    "name": "Tenet Ferrox",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_BoardExec_Primary_CrpBEFluxRifle_CrpBEFluxRifle",
+    "name": "Tenet Flux Rifle",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_BoardExec_Primary_CrpBEGlaxion_CrpBEGlaxion",
+    "name": "Tenet Glaxion",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_BoardExec_Primary_CrpBEQuanta_CrpBEQuanta",
+    "name": "Tenet Quanta",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_BoardExec_Primary_CrpBETetra_CrpBETetra",
+    "name": "Tenet Tetra",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnBardRifle_TnBardRifle",
+    "name": "Tenora",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeTenora_TenoraPrimeWeapon",
+    "name": "Tenora Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_LongGuns_CorpusUMP_CorpusUMP",
+    "name": "Tetra",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnModQuestRifle_TnModQuestRifleWeapon",
+    "name": "Thornbak",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_DrakeRifle_DrakeRifle",
+    "name": "Tiberon",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeTiberon_PrimeTiberonRifle",
+    "name": "Tiberon Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_DoubleBarrelShotgun_TennoDoubleBarrelShotgun",
+    "name": "Tigris",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeTigris_PrimeTigris",
+    "name": "Tigris Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrnGrenadeLauncher_GrnGrenadeLauncher",
+    "name": "Tonkor",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_ClanTech_Bio_BioWeapon",
+    "name": "Torid",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Thanotech_ThanoRifle_ThanotechRifle",
+    "name": "Trumna",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeTrumna_PrimeTrumnaWeapon",
+    "name": "Trumna Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeLightningGun_PrimeLightningGun",
+    "name": "Vadarya Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_SteelMeridian_LongGuns_SMHek",
+    "name": "Vaykor Hek",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Rifle_TennoSniperRifle",
+    "name": "Vectis",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeVectis_PrimeVectisRifle",
+    "name": "Vectis Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_TnRevolverRifle_TnRevolverRifleGun",
+    "name": "Veldt",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Bayonet_TnBayonetRifleWeapon",
+    "name": "Vinquibus",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrineerSniperRifle_GrnSniperRifle",
+    "name": "Vulkar",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrineerSniperRifle_VulkarWraith",
+    "name": "Vulkar Wraith",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrnCannon_GrnCannonWeapon",
+    "name": "Zarr",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_LoginPrimary_SundialRifle",
+    "name": "Zenith",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 1
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_RepeatingCrossbow_RepeatingCrossbow",
+    "name": "Zhuge",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_LongGuns_PrimeZhuge_PrimeZhugeCrossbow",
+    "name": "Zhuge Prime",
+    "group": "equipment",
+    "sub": "Primaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_ClanTech_Bio_AcidDartPistol",
+    "name": "Acrid",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_ThrowingWeapons_GrnVorStickyBomb_GrnVorStickyBomb",
+    "name": "Aegrit",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Akimbo_AkimboAutoPistols",
+    "name": "Afuris",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeAfuris_PrimeAFurisWeapon",
+    "name": "Afuris Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_SapientPistol_SapientPistol",
+    "name": "Akarius",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeAkarius_PrimeAkariusWeapon",
+    "name": "Akarius Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Akimbo_AkimboBolto",
+    "name": "Akbolto",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeAkbolto_PrimeAkBoltoWeapon",
+    "name": "Akbolto Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Akimbo_AkimboShotGun",
+    "name": "Akbronco",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Akimbo_PrimeAkimboShotGun",
+    "name": "Akbronco Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_TigrisRedeemerSetPistol_TnoBladedPistols",
+    "name": "Akjagara",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeAkjagara_AkJagaraPrime",
+    "name": "Akjagara Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Akimbo_AkimboPistol",
+    "name": "Aklato",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 1
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Akimbo_AkLexPistols",
+    "name": "Aklex",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Akimbo_AkLexPrimePistols",
+    "name": "Aklex Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Akimbo_DualMagnus",
+    "name": "Akmagnus",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Akimbo_DualMagnusPrime",
+    "name": "Akmagnus Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_SomaSidearm_AkimboSomaPistols",
+    "name": "Aksomati",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeAksomati_PrimeAksomati",
+    "name": "Aksomati Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_DuelistPistols_DuelistPistols",
+    "name": "Aksondol",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_TennoUzi_TennoUzi",
+    "name": "Akstiletto",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeAkstiletto_PrimeAkstiletto",
+    "name": "Akstiletto Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Akimbo_DualVastos",
+    "name": "Akvasto",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeVasto_AkPrimeVasto_AkPrimeVastoPistol",
+    "name": "Akvasto Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_HarlequinGun_HarlequinPistols",
+    "name": "Akzani",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CrpHandRL_CorpusHandRocketLauncher",
+    "name": "Angstrum",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_SniperPistol_CrpScopeGun",
+    "name": "Arca Scisco",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_TnJetTurbine_TnJetTurbinePistolWeapon",
+    "name": "Athodai",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeAthodai_PrimeAthodaiPistolWeapon",
+    "name": "Athodai Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_HeatGun_GrnHeatGun",
+    "name": "Atomos",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_SundialGun_SundialPistol",
+    "name": "Azima",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 1
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_AutomaticHandCrossbow_AutoCrossBow",
+    "name": "Ballistica",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeBallistica_PrimeBallistica",
+    "name": "Ballistica Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistol_CrossBow",
+    "name": "Bolto",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_GrineerHandShotgun_GrineerHandCannon",
+    "name": "Brakk",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistol_HandShotGun",
+    "name": "Bronco",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistol_BroncoPrime",
+    "name": "Bronco Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_ThrowingWeapons_TnChoirframeKunai_TnChoirframeKunai",
+    "name": "Cantare",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_ThrowingWeapons_StickyBomb_StickyBombs",
+    "name": "Castanas",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Pistols_InfBeamPistol_InfBeamPistol",
+    "name": "Catabolyst",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CorpusMinigun_CorpusMinigun",
+    "name": "Cestra",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_Pistols_CodaCatabolyst",
+    "name": "Coda Catabolyst",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_Pistols_CodaPox",
+    "name": "Coda Pox",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_Pistols_CodaTysis",
+    "name": "Coda Tysis",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CrpSentAmalgPistol_CrpSentAmalgPistol",
+    "name": "Cyanex",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CrpChargeGun_CrpChargeGun",
+    "name": "Cycron",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_ThrowingWeapons_StalkerKunai",
+    "name": "Despair",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CorpusHandShotgun_CorpusHandCannon",
+    "name": "Detron",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_DexFuris_DexFuris",
+    "name": "Dex Furis",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CorpusMinigun_DualCorpusMinigun",
+    "name": "Dual Cestra",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_Pistols_1999InfSporePistol_1999InfSporePistolWeapon",
+    "name": "Dual Coda Torxica",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Pistols_InfVomitGun_InfVomitGunWep",
+    "name": "Dual Toxocyst",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Lasria_LasGooPistol_LasGooPistolPlayerWeapon",
+    "name": "Efv-8 Mars",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Pistols_InfestedPistol",
+    "name": "Embolist",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_TnWraitheSidearm_TnWraitheSidearmWeapon",
+    "name": "Epitaph",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeEpitaph_PrimeEpitaphSidearmWeapon",
+    "name": "Epitaph Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_AllNew1hSG_AllNew1hSG",
+    "name": "Euphona Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistol_AutoPistol",
+    "name": "Furis",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_ThrowingWeapons_GlassKunai_GlassKunaiWeapon",
+    "name": "Fusilai",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_CephalonSuda_Pistols_CSDroidArray",
+    "name": "Gammacor",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Grimoire_TnDoppelgangerGrimoire",
+    "name": "Grimoire",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_ThrowingWeapons_TennoStars",
+    "name": "Hikou",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_ThrowingWeapons_PrimeThrowingStar_PrimeHikou",
+    "name": "Hikou Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_QuillDartgun_QuillDartGunWeapon",
+    "name": "Hystrix",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeHystrix_PrimeHystrixWeapon",
+    "name": "Hystrix Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_TnPriestPistolScope_TnPriestPistolWeapon",
+    "name": "Knell",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeKnell_PrimeKnellWeapon",
+    "name": "Knell Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_GrnKohmPistol_GrnKohmPistol",
+    "name": "Kohmak",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_TnYareliPistol_TnYareliPistolWeapon",
+    "name": "Kompressa",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeKompressa_PrimeKompressa",
+    "name": "Kompressa Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_GrineerPistol_GrnHeavyPistol",
+    "name": "Kraken",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_GrnTorpedoPistol_GrnTorpedoPistol",
+    "name": "Kulstar",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_ThrowingWeapons_Kunai",
+    "name": "Kunai",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_Secondaries_Brakk_KuvaBrakk",
+    "name": "Kuva Brakk",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_Secondaries_Kraken_KuvaKraken",
+    "name": "Kuva Kraken",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_Secondaries_Nukor_KuvaNukor",
+    "name": "Kuva Nukor",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_Secondaries_Seer_KuvaSeer",
+    "name": "Kuva Seer",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_Secondaries_Stubba_KuvaStubba",
+    "name": "Kuva Twin Stubbas",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Zariman_Pistols_HeavyPistol_ZarimanHeavyPistol",
+    "name": "Laetum",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistol_Pistol",
+    "name": "Lato",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 1
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistol_LatoPrime",
+    "name": "Lato Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistol_LatoVandal",
+    "name": "Lato Vandal",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistol_HeavyPistol",
+    "name": "Lex",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 1
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeLex_PrimeLex",
+    "name": "Lex Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_Magnum_Magnum",
+    "name": "Magnus",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeMagnus_PrimeMagnusWeapon",
+    "name": "Magnus Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_VoidTrader_VTDetron",
+    "name": "Mara Detron",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_GrineerLeverActionPistol_GLAPistol",
+    "name": "Marelok",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_MK1Series_MK1Furis",
+    "name": "Mk1-Furis",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_MK1Series_MK1Kunai",
+    "name": "Mk1-Kunai",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_GrineerMicrowavegun_GrnMicrowavePistol",
+    "name": "Nukor",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CrpSentExperimentPistol_CrpSentExperimentPistol",
+    "name": "Ocucor",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Thanotech_EntratiWristGun_EntratiWristGunWeapon",
+    "name": "Onos",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_TnBardPistol_TnBardPistolGun",
+    "name": "Pandero",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimePandero_PanderoPrimeWeapon",
+    "name": "Pandero Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CrpSonificBlastor_CrpBlastorWeapon",
+    "name": "Plinx",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Pistols_InfProximityStars_InfProximityStars",
+    "name": "Pox",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CrpHandRL_PrismaAngstrum",
+    "name": "Prisma Angstrum",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_GrineerBulbousSMG_Prisma_PrismaTwinGremlinsWeapon",
+    "name": "Prisma Twin Gremlins",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_SawnOffShotgun_TennoHandShotgun",
+    "name": "Pyrana",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimePyrana_PrimePyranaPistol",
+    "name": "Pyrana Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_GrnAmphisPistol_GrnAmphisPistol",
+    "name": "Quatz",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_RedVeil_Pistols_RVBallistica",
+    "name": "Rakta Ballistica",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_1999EntHybridPistolWeapon_1999EntHybridPistolWeapon",
+    "name": "Riot-848",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_GrnOrokinPistol_GrnOrokinPistol",
+    "name": "Sagek Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_NewLoka_Pistols_NLCastanas",
+    "name": "Sancti Castanas",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_ThrowingWeapons_TnOraxiaFlechette_TnOraxiaFlechette",
+    "name": "Scyotid",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_PerrinSequence_Pistols_PSDualCestra",
+    "name": "Secura Dual Cestra",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_GrineerPistol_GrnScopedPistolPlayer",
+    "name": "Seer",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Thanotech_ThanoPistol_ThanotechPistol",
+    "name": "Sepulcrum",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistol_BurstPistol",
+    "name": "Sicarus",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 1
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeSicarus_PrimeSicarusPistol",
+    "name": "Sicarus Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CrpAirPistol_CrpAirPistolArray",
+    "name": "Sonicor",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_ClanTech_Energy_CrpLaserPistol",
+    "name": "Spectra",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CorpusModularPistol_Vandal_CrpLaserPistolVandal",
+    "name": "Spectra Vandal",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_ThrowingWeapons_LiDagger_LiDagger",
+    "name": "Spira",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_ThrowingWeapons_PrimeLiDagger_PrimeLiDagger",
+    "name": "Spira Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CrpElectroMag_CrpElectroMag",
+    "name": "Staticor",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_GrnUzi_GrnUziWeapon",
+    "name": "Stubba",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_GrineerCrossbow_GrineerGooGun",
+    "name": "Stug",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_CephalonSuda_Pistols_CSSynoidGammacor",
+    "name": "Synoid Gammacor",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_ThrowingWeapons_U18ThrowingKnives_U18throwingknives",
+    "name": "Talons",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_ArbitersOfHexis_Pistols_AHAkbolto",
+    "name": "Telos Akbolto",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_BoardExec_Secondary_CrpBECycron_CrpBECycron",
+    "name": "Tenet Cycron",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_BoardExec_Secondary_CrpBEDetron_CrpBEDetron",
+    "name": "Tenet Detron",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CrpBriefcaseAkimbo_CrpBriefcaseAkimboPistol",
+    "name": "Tenet Diplos",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_BoardExec_Secondary_CrpBEPlinx_CrpBEPlinxWeapon",
+    "name": "Tenet Plinx",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Pistols_CrpIgniterPistol_CrpIgniterPistol",
+    "name": "Tenet Spirex",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_LongGuns_GrineerAssaultRifle_TwinGrakatas",
+    "name": "Twin Grakatas",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_GrineerPistol_GrineerAkimboPistol",
+    "name": "Twin Gremlins",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_GrnDWUniques_GrnTwinKohmaks",
+    "name": "Twin Kohmak",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_GrnQueenGuardDualPistol_GrnQueenGuardDualPistols",
+    "name": "Twin Rogga",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Akimbo_AkimboViperPistols",
+    "name": "Twin Vipers",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_WraithTwinVipers_WraithTwinVipers",
+    "name": "Twin Vipers Wraith",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Pistols_InfestedDartPistol_InfestedDartPistol",
+    "name": "Tysis",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistol_RevolverPistol",
+    "name": "Vasto",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeVasto_PrimeVastoPistol",
+    "name": "Vasto Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_SteelMeridian_Pistols_SMMarelok",
+    "name": "Vaykor Marelok",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_TnOdaliskSmg_TnOdaliskSmgPistol",
+    "name": "Velox",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeVelox_PrimeVeloxPistol",
+    "name": "Velox Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Lasria_LasSilencedPistol_LasSilencedPistolWeapon",
+    "name": "Vesper 77",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_GrineerPistol_GrineerLightPistol",
+    "name": "Viper",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Pistols_WraithSingleViper_WraithSingleViper",
+    "name": "Viper Wraith",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_TnGuandoPistol_TnGuandoPistolGun",
+    "name": "Zakti",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeZakti_PrimeZaktiPistol",
+    "name": "Zakti Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_ConclaveLeverPistol_ConclaveLeverPistol",
+    "name": "Zylok",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Pistols_PrimeZylok_ZylokPrimePistol",
+    "name": "Zylok Prime",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Pistols_InfUzi_InfUziWeapon",
+    "name": "Zymos",
+    "group": "equipment",
+    "sub": "Secondaries",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrineerTylAxeAndBoar_RegorAxeShield",
+    "name": "Ack & Brunt",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Polearms_Naginata_ShrineMaidenNaginataWeapon",
+    "name": "Amanata",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Staff_GrnStaff",
+    "name": "Amphis",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Scythe_ParisScythe_ParisScythe",
+    "name": "Anku",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Gauntlet_Gauntlet",
+    "name": "Ankyros",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Gauntlet_PrimeAnkyros_PrimeAnkyros",
+    "name": "Ankyros Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_Hammer_CorpusHammerWeapon",
+    "name": "Arca Titron",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_SwordsAndBoards_DaxDuviriMaceShieldWeapon",
+    "name": "Argo & Vel",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Melee_InfWarfan_InfWarfanWeapon",
+    "name": "Arum Spinosa",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrineerWhip_GrineerWhip",
+    "name": "Atterax",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_DaxDuviriTwoHandedKatana_DaxDuviriTwoHandedKatanaWeapon",
+    "name": "Azothane",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Tip_PvPVariantTipOne",
+    "name": "Balla",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Staff_Staff",
+    "name": "Bo",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Staff_PrimeBo_PrimeBoWeapon",
+    "name": "Bo Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Tonfa_Boltonfa_Boltonfa",
+    "name": "Boltace",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrnQueenSceptre_GrnQueenSceptreWeapon",
+    "name": "Broken Scepter",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_StalkerTwo_StalkerTwoSmallSword",
+    "name": "Broken War",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Staff_SingleStaff",
+    "name": "Cadus",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Polearms_TnHalberdPolearm_TnHalberdPolearmWeapon",
+    "name": "Cassowar",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Melee_InfEmbolistScythe_InfestedScythe",
+    "name": "Caustacyst",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Dagger_CeramicDagger",
+    "name": "Ceramic Dagger",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Melee_Glaives_PunctureGlaive_PunctureGlaiveWeapon",
+    "name": "Cerata",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_StalkerMios_OperationsLacera",
+    "name": "Ceti Lacera",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_SwordsAndBoards_PacifistShieldAndSword_PacifistShieldSword",
+    "name": "Cobra & Crane",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_SwordsAndBoards_PrimeCobraAndCrane_PrimeCobraAndCraneWeapon",
+    "name": "Cobra & Crane Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_Melee_CodaCaustacyst_CodaCaustacyst",
+    "name": "Coda Caustacyst",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_Melee_CodaHirudo",
+    "name": "Coda Hirudo",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_Melee_CodaMire",
+    "name": "Coda Mire",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_Melee_InfestedHammer_InfLichHammerWeapon",
+    "name": "Coda Motovore",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_InfestedLich_Melee_CodaPathocyst_CodaPathocyst",
+    "name": "Coda Pathocyst",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Melee_ExaltedArchScythe_ExaltedAWScytheWeapon",
+    "name": "Corufell",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_CronusSword_CronusLongSword",
+    "name": "Cronus",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Tip_PvPVariantTipFour",
+    "name": "Cyath",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_CronusSword_PrimeCronusLongSword",
+    "name": "Dakra Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Dagger_DarkDagger",
+    "name": "Dark Dagger",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_DarkSword_DarkSwordDaggerHybridWeapon",
+    "name": "Dark Split-Sword",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_DarkSword_DarkLongSword",
+    "name": "Dark Sword",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Tip_PvPVariantTipFive",
+    "name": "Dehtat",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_TnoRapier_TnoRapier",
+    "name": "Destreza",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PRapier_DestrezaPrime",
+    "name": "Destreza Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_DexTheSecond_DexTheSecond",
+    "name": "Dex Dakra",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_KatanaAndWakizashi_Dex2023Nikana_Dex2023Nikana",
+    "name": "Dex Nikana",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee02_Tip_TipEleven",
+    "name": "Dokrahm",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_TnDagathBladeWhip_TnDagathBladeWhip",
+    "name": "Dorrclave",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_KatanaAndWakizashi_LowKatana",
+    "name": "Dragon Nikana",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrineerMachetteAndCleaver_DualCleaverWeapon",
+    "name": "Dual Cleavers",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_DualShortSword_DualEtherSword",
+    "name": "Dual Ether",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_DualShortSword_DualHeatSwords",
+    "name": "Dual Heat Swords",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Axe_DualInfestedAxesWeapon",
+    "name": "Dual Ichor",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_DualKamas_DualKamas",
+    "name": "Dual Kamas",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_PrimeDualKamas_PrimeDualKamas",
+    "name": "Dual Kamas Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_QuillSword_QuillDualSwords",
+    "name": "Dual Keres",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PrimeDualKeres_PrimeDualKeresWeapon",
+    "name": "Dual Keres Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Soma_SomaDualKamas",
+    "name": "Dual Raza",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_DualShortSword_DualShortSword",
+    "name": "Dual Skana",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Lasria_LasGooSickle_LasGooSicklePlayerWeapon",
+    "name": "Dual Viciss",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Axe_DualAxeWeapon",
+    "name": "Dual Zoren",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Axe_PrimeZoren_PrimeZorenAxeWeapon",
+    "name": "Dual Zoren Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Polearms_DaxDuviriPolearm_DaxDuviriPolearmWeapon",
+    "name": "Edun",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Thanotech_EntSphereHammer_EntSphereHammer",
+    "name": "Ekhein",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceSpeedIStatusII",
+    "name": "Ekwana Ii Jai",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceDamageIStatusII",
+    "name": "Ekwana Ii Ruhang",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceSpeedIStatusI",
+    "name": "Ekwana Jai",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceSpeedIIStatusI",
+    "name": "Ekwana Jai Ii",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceDamageIStatusI",
+    "name": "Ekwana Ruhang",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceDamageIIStatusI",
+    "name": "Ekwana Ruhang Ii",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_ThreeLeaf_ThreeLeaf",
+    "name": "Endura",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_DualDagger_DualEtherDagger",
+    "name": "Ether Daggers",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Scythe_EtherScytheWeapon",
+    "name": "Ether Reaper",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_LongSword_EtherSword",
+    "name": "Ether Sword",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_Glaive_CrpGlaive_CrpGlaive",
+    "name": "Falcor",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_DualDagger_DualDagger",
+    "name": "Fang",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_DualDagger_FangPrimeDagger",
+    "name": "Fang Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Hammer_HammerWeapon",
+    "name": "Fragor",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_PrimeFragor_PrimeFragor",
+    "name": "Fragor Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Fist_Fist",
+    "name": "Furax",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Fist_FuraxWraith",
+    "name": "Furax Wraith",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_Scythe_GrnDrillScythe_GrnDrillScythe",
+    "name": "Galariak Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_GreatSword_TennoGreatSword",
+    "name": "Galatine",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PrimeGalatine_PrimeGalatine",
+    "name": "Galatine Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_Whips_CrpShockGrip_CrpShockGripWhipWeapon",
+    "name": "Galvacord",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_PersianMachete_DjinnMachete",
+    "name": "Gazal Machete",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrnGhoulSaw_GrnGhoulSawPlayer",
+    "name": "Ghoulsaw",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Glaives_LightGlaive_LightGlaiveWeapon",
+    "name": "Glaive",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Glaives_PrimeGlaive_PrimeGlaiveWeapon",
+    "name": "Glaive Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_GreatSword_GreatSword",
+    "name": "Gram",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PrimeGram_PrimeGram",
+    "name": "Gram Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Polearms_TnGuandaoPolearm_TnGuandaoPolearmWeapon",
+    "name": "Guandao",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Polearms_PrimeGuandao_PrimeGuandaoWeapon",
+    "name": "Guandao Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Warfan_WarfanWeapon",
+    "name": "Gunsen",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Warfan_PrimeGunsen_PrimeGunsenWeapon",
+    "name": "Gunsen Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrnBoomerang_GrnBoomerang",
+    "name": "Halikar",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrnBoomerang_HalikarWraithWeapon",
+    "name": "Halikar Wraith",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Scythe_TnChoirScythe_TnChoirScythe",
+    "name": "Harmony",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Scythe_StalkerScytheWeapon",
+    "name": "Hate",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Dagger_Dagger",
+    "name": "Heat Dagger",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_HeatSword_HeatLongSword",
+    "name": "Heat Sword",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Cephalon_Melee_Hammer_CephHammerWeapon",
+    "name": "Heliocor",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_HeavyScythe_DuviriScythe_DuviriHeavyScytheWeapon",
+    "name": "Hespar",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Melee_InfWFAccompanyingSparring_InfestedKogake",
+    "name": "Hirudo",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Zariman_Melee_Dagger_ZarimanDaggerWeapon",
+    "name": "Innodem",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceSpeedI",
+    "name": "Jai",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceSpeedII",
+    "name": "Jai Ii",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrineerJetPoweredPolearm_GrineerJetPolearm",
+    "name": "Jat Kittag",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrnKusarigama_GrnKusarigamaWeapon",
+    "name": "Jat Kusar",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_JawSword_JawLongSword",
+    "name": "Jaw Sword",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Handle_HandleFive",
+    "name": "Jayap",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_DualKamas_SingleKama",
+    "name": "Kama",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_KrisDagger_KrisDagger",
+    "name": "Karyst",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PrimeKaryst_PrimeKrisDagger",
+    "name": "Karyst Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Melee_InfTransformClaw_InfTransformClawsWeapon",
+    "name": "Keratinos",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrineerHalberd_GrnHalberd",
+    "name": "Kesheg",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Glaives_Boomerang_BoomerangWeapon",
+    "name": "Kestrel",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Glaives_PrimeKestrel_PrimeKestrel",
+    "name": "Kestrel Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_BrassKnuckles_BrassKnuckles",
+    "name": "Kogake",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_PrimeKogake_KogakePrimeKnuckles",
+    "name": "Kogake Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee02_Handle_HandleNine",
+    "name": "Korb",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrnSparring_GrnSpiderSparring_GrnSpiderSparring",
+    "name": "Korrudo",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Archon_Melee_Trident_ArchonTridentPlayerWep",
+    "name": "Korumm",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_CrpVenusHatchet_CrpVenusHatchet",
+    "name": "Kreska",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrnEgyptSwd_GrnEgyptSwdWeapon",
+    "name": "Krohkur",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Tonfa_TonfaContestWinner_TennoTonfa",
+    "name": "Kronen",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Tonfa_TonfaContestWinnerPrime_TonfaContestWinnerPrimeWeapon",
+    "name": "Kronen Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Tip_PvPVariantTipSix",
+    "name": "Kronsh",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Handle_HandleSix",
+    "name": "Kroostra",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_Melee_Ghoulsaw_KuvaGhoulSaw",
+    "name": "Kuva Ghoulsaw",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrnKuvaLichScythe_GrnKuvaLichScytheWeapon",
+    "name": "Kuva Shildeg",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Handle_HandleThree",
+    "name": "Kwath",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_StalkerMios_StalkerMios",
+    "name": "Lacera",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Handle_HandleTwo",
+    "name": "Laka",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_Whip_CorpusWhipWeapon",
+    "name": "Lecta",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Melee_TipedoStaff_InfTipedoStaff",
+    "name": "Lesion",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrineerMachetteAndCleaver_Machete",
+    "name": "Machete",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrineerMachetteAndCleaver_WraithMacheteWeapon",
+    "name": "Machete Wraith",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Maces_PaladinMace_PaladinMaceWeapon",
+    "name": "Magistar",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_TnChiselKanabo_TnChiselKanabo",
+    "name": "Masseter",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PrimeMasseter_PrimeMasseter",
+    "name": "Masseter Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Tip_PvPVariantTipThree",
+    "name": "Mewan",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Melee_Swords_Mios_Mios",
+    "name": "Mios",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Melee_Swords_Mire_MireSword",
+    "name": "Mire",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_MK1Series_MK1Bo",
+    "name": "Mk1-Bo",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_MK1Series_MK1Furax",
+    "name": "Mk1-Furax",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_CutlassAndPoignard_CutlassPoignardSwords",
+    "name": "Nami Skyla",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PrimeNamiSkyla_PrimeNamiSkyla",
+    "name": "Nami Skyla Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_CutlassAndPoignard_TennoCutlass",
+    "name": "Nami Solo",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Archon_Melee_DualDaggers_ArchonDualDaggersPlayerWep",
+    "name": "Nepheri",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_KatanaAndWakizashi_Katana",
+    "name": "Nikana",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PrimeKatana_PrimeNikana",
+    "name": "Nikana Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Nunchaku_Nunchaku_Nunchaku",
+    "name": "Ninkondi",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_PrimeNinkondi_PrimeNikondi",
+    "name": "Ninkondi Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_KickAndPunch_KickPunchWeapon",
+    "name": "Obex",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_CrpTonfa_CrpTonfa",
+    "name": "Ohma",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_TennoSai_TennoSais",
+    "name": "Okina",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PrimeOkina_PrimeOkina",
+    "name": "Okina Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Tip_PvPVariantTipTwo",
+    "name": "Ooltha",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Polearms_PolearmWeapon",
+    "name": "Orthos",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Polearms_PrimePolearmWeapon",
+    "name": "Orthos Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Glaives_TeshinGlaive_TnTeshinGlaiveWep",
+    "name": "Orvius",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PrimePangolinSword_PrimePangolinSword",
+    "name": "Pangolin Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PangolinSword_PangolinLongSword",
+    "name": "Pangolin Sword",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Orokin_BallasSword_BallasSwordWeapon",
+    "name": "Paracesis",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Melee_InfBoomerang_InfBoomerangWeapon",
+    "name": "Pathocyst",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_TnRailjackGreatKatana_TnRailJackGreatKatanaWeapon",
+    "name": "Pennant",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Handle_HandleOne",
+    "name": "Peye",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMeleeInfested_Handles_InfestedHandleOne",
+    "name": "Plague Akwin",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMeleeInfested_Handles_InfestedHandleTwo",
+    "name": "Plague Bokwin",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMeleeInfested_Tips_InfestedTipTwo",
+    "name": "Plague Keewar",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMeleeInfested_Tips_InfestedTipOne",
+    "name": "Plague Kripath",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PlasmaSword_PlasmaLongSword",
+    "name": "Plasma Sword",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Zariman_Melee_Tonfas_ZarimanTonfaWeapon",
+    "name": "Praedos",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_HeavyScythe_TnOrionSiriusScythe_TnSiriusScytheWeapon",
+    "name": "Pride",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrineerMachetteAndCleaver_PrismaDualCleavers",
+    "name": "Prisma Dual Cleavers",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrineerMachetteAndCleaver_PrismaMachete",
+    "name": "Prisma Machete",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_KickAndPunch_PrismaObex",
+    "name": "Prisma Obex",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_CrpTonfa_CrpPrismaTonfa",
+    "name": "Prisma Ohma",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_VoidTrader_PrismaSkana",
+    "name": "Prisma Skana",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_ClanTech_Energy_ElectroProd",
+    "name": "Prova",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_ClanTech_Energy_VandalElectroProd",
+    "name": "Prova Vandal",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Melee_Nunchaku_InfNunchuck_InfNunchuck",
+    "name": "Pulmonars",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Melee_Staff_InfStaff_InfStaff",
+    "name": "Pupacyst",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Warfan_TnBrokenFrameWarfan_TnBrokenFrameWarfanWeapon",
+    "name": "Quassus",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Warfan_PrimeQuassus_PrimeQuassusWeapon",
+    "name": "Quassus Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee02_Tip_TipTen",
+    "name": "Rabvee",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_RedVeil_Melee_RVDarkDagger",
+    "name": "Rakta Dark Dagger",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Scythe_ReaperWeapon",
+    "name": "Reaper Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Gunblade_TnoGunblade",
+    "name": "Redeemer",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Gunblade_RedeemerPrime_RedeemerPrimeWep",
+    "name": "Redeemer Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrineerClaws_GrnClaws",
+    "name": "Ripkas",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceDamageI",
+    "name": "Ruhang",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceDamageII",
+    "name": "Ruhang Ii",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Operator_Melee_DrifterTazer_DrifterTazerPlayerWep",
+    "name": "Rumblejack",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Thanotech_EntFistIncarnon_EntFistIncarnon",
+    "name": "Ruvox",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Hammer_DaxDuviriHammer_DaxDuviriHammerWeapon",
+    "name": "Sampotes",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_NewLoka_Melee_NLMagistar",
+    "name": "Sancti Magistar",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Axe_WolfFrameAxeWeapon",
+    "name": "Sarofang",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Axe_PrimeVorunaAxeWeapon",
+    "name": "Sarofang Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Gunblade_GunbladeAutomatic_TnoGunbladeAutomatic",
+    "name": "Sarpa",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Axe_AxeWeapon",
+    "name": "Scindo",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Axe_PrimeScindo_PrimeScindoWeapon",
+    "name": "Scindo Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Infested_Melee_Whip_InfestedWhip_InfestedWhipWeapon",
+    "name": "Scoliac",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_PerrinSequence_Melee_PSLecta",
+    "name": "Secura Lecta",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Handle_HandleFour",
+    "name": "Seekalla",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee02_Tip_TipNine",
+    "name": "Sepfahn",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_Polearm_CorpusPolearm01_CorpusPolearmWeapon",
+    "name": "Serro",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Nunchaku_TnoNunchaku_TnoNunchaku",
+    "name": "Shaku",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrineerCombatKnife_GrineerCombatKnife",
+    "name": "Sheev",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee02_Handle_HandleTen",
+    "name": "Shtung",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Hammer_IceHammer_IceHammer",
+    "name": "Sibear",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_SwordsAndBoards_SundialSwordBoard_SundialBoardSword",
+    "name": "Sigma & Octantis",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 1
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_SwordsAndBoards_MeleeContestWinnerOne_TennoSwordShield",
+    "name": "Silva & Aegis",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_PrimeSilvaAegis_PrimeSilvaAegis",
+    "name": "Silva & Aegis Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_LongSword_LongSword",
+    "name": "Skana",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_LongSword_SkanaPrime",
+    "name": "Skana Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_UmbraKatana_UmbraKatana",
+    "name": "Skiajati",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrnSharbola_GrnSharbolaWeapon",
+    "name": "Slaytra",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Whips_SpiderWhip_SpiderWhipWeapon",
+    "name": "Spinnerex",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_Gunblade_CrpGunBlade_CrpGunbladeWeapon",
+    "name": "Stropha",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Types_Friendly_PlayerControllable_Weapons_DuviriDualSwordsWeapon",
+    "name": "Sun & Moon",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_DaxDuviriKatana_DaxDuviriKatanaWeapon",
+    "name": "Syam",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrnTrident_GrnTridentWeapon",
+    "name": "Sydon",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_CephalonSuda_Melee_CSHeliocor",
+    "name": "Synoid Heliocor",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_SwordsAndBoards_MortiforShieldAndSword_MortiforShieldAndSword",
+    "name": "Tak & Lug",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_TnTwoHandedKatana_TnTwoHandedKatana",
+    "name": "Tatsu",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PrimeTatsu_PrimeTatsuWeapon",
+    "name": "Tatsu Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Gauntlet_BrawlerKnuckles_BrawlerKnuckles",
+    "name": "Tekko",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_PrimeTekko_PrimeTekko",
+    "name": "Tekko Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_ArbitersOfHexis_Melee_AHBoltace",
+    "name": "Telos Boltace",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_ShieldAndSword_CrpHammerShield_CrpHammerShield",
+    "name": "Tenet Agendus",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_CrpBigSlash_CrpBigSlash",
+    "name": "Tenet Exec",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_CrpBriefcaseScythe_CrpBriefcaseScythe",
+    "name": "Tenet Grigori",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_CrpBriefcase2HKatana_CrpBriefcase2HKatana",
+    "name": "Tenet Livia",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Zariman_Melee_HeavyScythe_ZarimanHeavyScythe_ZarimanHeavyScytheWeapon",
+    "name": "Thalys",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Staff_MonkSpade_TnoMonkStaff",
+    "name": "Tipedo",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Staff_TipedoPrime_TipedoPrimeWeapon",
+    "name": "Tipedo Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Polearms_FlowerPowerPolearm_FlowerPowerPolearmWep",
+    "name": "Tonbo",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_Tonfa_GrnChainSawTonfa_GrnChainSawTonfaWeapon",
+    "name": "Tonkkatt",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrnDualFireAxe_GrnDualFireAxe",
+    "name": "Twin Basolk",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GrnEgyptSwd_DualGrnEgyptSwdWeapon",
+    "name": "Twin Krohkur",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceSpeedICritII",
+    "name": "Vargeet Ii Jai",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceDamageICritII",
+    "name": "Vargeet Ii Ruhang",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceSpeedICritI",
+    "name": "Vargeet Jai",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceSpeedIICritI",
+    "name": "Vargeet Jai Ii",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceDamageICritI",
+    "name": "Vargeet Ruhang",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Ostron_Melee_ModularMelee01_Balance_BalanceDamageIICritI",
+    "name": "Vargeet Ruhang Ii",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_Melee_GunBlade_GrnGunBlade_GrnGunblade",
+    "name": "Vastilok",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Syndicates_SteelMeridian_Melee_SMSydon",
+    "name": "Vaykor Sydon",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Sentients_SentJointedScythe_SentJointedScytheWeapon",
+    "name": "Venato",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Scythe_PrimeVento_PrimeVentoScythe",
+    "name": "Venato Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Claws_TennoClaws",
+    "name": "Venka",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_PrimeVenKa_PrimeVenkaClaws",
+    "name": "Venka Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Archon_Melee_Whip_ArchonWhipPlayerWep",
+    "name": "Verdilac",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Warfan_TnMoonWarfan_MoonWarfanWeapon",
+    "name": "Vericres",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_NWIIIOrokinSword_NWOrokinSword",
+    "name": "Vitrica",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Hammer_GlassHammer_GlassHammer",
+    "name": "Volnus",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_PrimeVolnus_VolnusPrimeWeapon",
+    "name": "Volnus Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_StalkerTwo_StalkerTwoGreatSword",
+    "name": "War",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Swords_PrimeWar_PrimeWarWeapon",
+    "name": "War Prime",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_Hammer_ThrowingHammer",
+    "name": "Wolf Sledge",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_HeavyScythe_TnOrionSiriusScythe_TnOrionScytheWeapon",
+    "name": "Wrath",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Corpus_Melee_Glaive_CrpGhostCatcherGlaive_CrpGhostCatcherGlaive",
+    "name": "Xoris",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Melee_SunDialAxe_SundialAxeWeapon",
+    "name": "Zenistar",
+    "group": "equipment",
+    "sub": "Melee",
+    "xp": 3000,
+    "tier": 1
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_CarrierPowerSuit",
+    "name": "Carrier",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_PrimeCarrierPowerSuit",
+    "name": "Carrier Prime",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_DethCubePowerSuit",
+    "name": "Dethcube",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_PrimeDethCubePowerSuit",
+    "name": "Dethcube Prime",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_ArcDronePowerSuit",
+    "name": "Diriga",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_GubberPowerSuit",
+    "name": "Djinn",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_MeleePetPowerSuit",
+    "name": "Helios",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_PrimeHeliosPowerSuit",
+    "name": "Helios Prime",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_EmpyreanSentinelPowerSuit",
+    "name": "Nautilus",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_NautilusPrimeSentinelPowerSuit",
+    "name": "Nautilus Prime",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_RadarPowerSuit",
+    "name": "Oxylus",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_PrismaShadePowerSuit",
+    "name": "Prisma Shade",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_ShadePowerSuit",
+    "name": "Shade",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_PrimeShadePowerSuit",
+    "name": "Shade Prime",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_TnSentinelCrossPowerSuit",
+    "name": "Taxon",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_WyrmPowerSuit",
+    "name": "Wyrm",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Types_Sentinels_SentinelPowersuits_PrimeWyrmPowerSuit",
+    "name": "Wyrm Prime",
+    "group": "companions",
+    "sub": "Sentinels",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Types_Game_CatbrowPet_MirrorCatbrowPetPowerSuit",
+    "name": "Adarza Kavat",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_ZanukaPets_ZanukaPetParts_ZanukaPetPartBodyA",
+    "name": "Adlet Core",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedCritterMutagenA",
+    "name": "Adra Mutagen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetPayloadAegron",
+    "name": "Aegron Gyro",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetEngineArcotek",
+    "name": "Alcrom Core",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedPredatorMutagenC",
+    "name": "Arioli Mutagen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetPayloadThermocor",
+    "name": "Atheca Gyro",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_ZanukaPets_ZanukaPetParts_ZanukaPetPartHeadB",
+    "name": "Bhaira Hound",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_ZanukaPets_ZanukaPetParts_ZanukaPetPartLegsA",
+    "name": "Cela Bracket",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Game_KubrowPet_RetrieverKubrowPetPowerSuit",
+    "name": "Chesa Kubrow",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedPredatorMutagenB",
+    "name": "Chiten Mutagen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_HornedInfestedCatbrowPetPowerSuit",
+    "name": "Crescent Vulpaphyla",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedCritterAntigenB",
+    "name": "Desus Antigen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_ZanukaPets_ZanukaPetParts_ZanukaPetPartHeadA",
+    "name": "Dorma Hound",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetEngineThricore",
+    "name": "Drex Core",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetLegA",
+    "name": "Drimper Bracket",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedPredatorAntigenA",
+    "name": "Elasmun Antigen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedCritterMutagenB",
+    "name": "Elsa Mutagen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_ZanukaPets_ZanukaPetParts_ZanukaPetPartTailC",
+    "name": "Frak Stabilizer",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_ZanukaPets_ZanukaPetParts_ZanukaPetPartBodyB",
+    "name": "Garmr Core",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetLegD",
+    "name": "Gauth Bracket",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetPayloadDarta",
+    "name": "Harpen Gyro",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_ZanukaPets_ZanukaPetParts_ZanukaPetPartHeadC",
+    "name": "Hec Hound",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Game_KubrowPet_ChargerKubrowPetPowerSuit",
+    "name": "Helminth Charger",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetPayloadHextra",
+    "name": "Hextra Gyro",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_ZanukaPets_ZanukaPetParts_ZanukaPetPartTailB",
+    "name": "Hinta Stabilizer",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetLegMelee",
+    "name": "Hona Bracket",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Game_KubrowPet_FurtiveKubrowPetPowerSuit",
+    "name": "Huras Kubrow",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedPredatorAntigenC",
+    "name": "Ibexan Antigen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedPredatorAntigenB",
+    "name": "Iranon Antigen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetLegC",
+    "name": "Jonsin Bracket",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetEngineKrisys",
+    "name": "Krisys Core",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetHeadLambeo",
+    "name": "Lambeo Moa",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MeleeMoaPetEngine",
+    "name": "Lehan Core",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedPredatorMutagenA",
+    "name": "Leptosam Mutagen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_MedjayPredatorKubrowPetPowerSuit",
+    "name": "Medjay Predasite",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedPredatorMutagenD",
+    "name": "Monachod Mutagen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetPayloadMunitron",
+    "name": "Munit Gyro",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetHeadMelee",
+    "name": "Nychus Moa",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetHeadOloro",
+    "name": "Oloro Moa",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_ArmoredInfestedCatbrowPetPowerSuit",
+    "name": "Panzer Vulpaphyla",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetHeadPara",
+    "name": "Para Moa",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_PharaohPredatorKubrowPetPowerSuit",
+    "name": "Pharaoh Predasite",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetPayloadTazron",
+    "name": "Phazor Gyro",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedCritterMutagenD",
+    "name": "Phijar Mutagen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedCritterAntigenC",
+    "name": "Plagen Antigen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedCritterAntigenD",
+    "name": "Poxi Antigen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_ZanukaPets_ZanukaPetParts_ZanukaPetPartBodyC",
+    "name": "Raiju Core",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Game_KubrowPet_GuardKubrowPetPowerSuit",
+    "name": "Raksa Kubrow",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Game_KubrowPet_AdventurerKubrowPetPowerSuit",
+    "name": "Sahasa Kubrow",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_VulpineInfestedCatbrowPetPowerSuit",
+    "name": "Sly Vulpaphyla",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Game_CatbrowPet_CheshireCatbrowPetPowerSuit",
+    "name": "Smeeta Kavat",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Game_KubrowPet_HunterKubrowPetPowerSuit",
+    "name": "Sunika Kubrow",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedPredatorAntigenD",
+    "name": "Tethron Antigen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetLegB",
+    "name": "Tian Bracket",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MoaPetPayloadCryoxion",
+    "name": "Trux Gyro",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_MoaPets_MoaPetParts_MeleeMoaPetPayload",
+    "name": "Tyli Gyro",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_ZanukaPets_ZanukaPetParts_ZanukaPetPartLegsB",
+    "name": "Urga Bracket",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Game_CatbrowPet_VampireCatbrowPetPowerSuit",
+    "name": "Vasca Kavat",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedCritterAntigenA",
+    "name": "Virox Antigen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_VizierPredatorKubrowPetPowerSuit",
+    "name": "Vizier Predasite",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_ZanukaPets_ZanukaPetParts_ZanukaPetPartTailA",
+    "name": "Wanz Stabilizer",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_CreaturePets_CreaturePetParts_Deimos_InfestedCritterMutagenC",
+    "name": "Zarim Mutagen",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Types_Friendly_Pets_ZanukaPets_ZanukaPetParts_ZanukaPetPartLegsC",
+    "name": "Zubb Bracket",
+    "group": "companions",
+    "sub": "Beasts",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Archwing_SupportJetPack_SupportJetPack",
+    "name": "Amesha",
+    "group": "heavy",
+    "sub": "Archwings",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Archwing_DemolitionJetPack_DemolitionJetPack",
+    "name": "Elytron",
+    "group": "heavy",
+    "sub": "Archwings",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Archwing_StealthJetPack_StealthJetPack",
+    "name": "Itzal",
+    "group": "heavy",
+    "sub": "Archwings",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Archwing_StandardJetPack_StandardJetPack",
+    "name": "Odonata",
+    "group": "heavy",
+    "sub": "Archwings",
+    "xp": 6000,
+    "tier": 4
+  },
+  {
+    "id": "_Lotus_Powersuits_Archwing_PrimeJetPack_PrimeJetPack",
+    "name": "Odonata Prime",
+    "group": "heavy",
+    "sub": "Archwings",
+    "xp": 6000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_NokkoArchGun_NokkoArchGun",
+    "name": "Arbucep",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_ThanoTechArchGun_ThanoTechArchGun",
+    "name": "Cortege",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_LaunchGrenade_ArchCannon",
+    "name": "Corvas",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_PrimeCorvas_PrimeCorvasWeapon",
+    "name": "Corvas Prime",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_ArchBurstGun_ArchBurstGun",
+    "name": "Cyngas",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_ArchwingHeavyPistols_ArchHeavyPistols",
+    "name": "Dual Decurion",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_RocketArtillery_ArchRocketCrossbow",
+    "name": "Fluctus",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_RepurposedGrineerAntiAircraftGun_ArchGRNAAGun",
+    "name": "Grattler",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_FoldingMachineGun_ArchMachineGun",
+    "name": "Imperator",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_FoldingMachineGun_ArchMachineGunVandal",
+    "name": "Imperator Vandal",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_HeavyWeapons_GrnHeavyGrenadeLauncher",
+    "name": "Kuva Ayanga",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Grineer_KuvaLich_HeavyWeapons_Grattler_KuvaGrattler",
+    "name": "Kuva Grattler",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 4000,
+    "tier": 7
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_TnShieldframeArchGun_TnShieldFrameArchGun",
+    "name": "Larkspur",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_PrimeLarkspur_PrimeLarkspurWeapon",
+    "name": "Larkspur Prime",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_TnConcreteArchgun_TnConcreteArchgunWeapon",
+    "name": "Mandonel",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_ThanoTechArchLongGun_ThanoTechLongGun",
+    "name": "Mausolon",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_ThanoTechGrenadeLaunch_ThanoTechGrenadeLauncher",
+    "name": "Morgha",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_ArchLongRifle_ArchLongRifle",
+    "name": "Phaedra",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_ArchwingHeavyPistols_Prisma_PrismaArchHeavyPistols",
+    "name": "Prisma Dual Decurions",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Primary_Railgun_ArchRailgun",
+    "name": "Velocitus",
+    "group": "heavy",
+    "sub": "Arch-Weapons",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Melee_ArchSwordHook_ArchHookSwordWeapon",
+    "name": "Agkuza",
+    "group": "heavy",
+    "sub": "Arch-Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Melee_Archswordandshield_ArchSwordShield",
+    "name": "Centaur",
+    "group": "heavy",
+    "sub": "Arch-Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Melee_PrimeCorufell_PrimeCorufellScytheWeapon",
+    "name": "Corufell Prime",
+    "group": "heavy",
+    "sub": "Arch-Melee",
+    "xp": 3000,
+    "tier": 6
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Melee_ArchScythe_ArchScythe",
+    "name": "Kaszas",
+    "group": "heavy",
+    "sub": "Arch-Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Melee_GrnArchHand_GrnArchHandWeapon",
+    "name": "Knux",
+    "group": "heavy",
+    "sub": "Arch-Melee",
+    "xp": 3000,
+    "tier": 3
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Melee_Archaxe_ArchAxeWeapon",
+    "name": "Onorix",
+    "group": "heavy",
+    "sub": "Arch-Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Melee_VoidTraderArchsword_VTArchSwordWeapon",
+    "name": "Prisma Veritux",
+    "group": "heavy",
+    "sub": "Arch-Melee",
+    "xp": 3000,
+    "tier": 5
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Melee_ArchHammer_ArchHammer",
+    "name": "Rathbone",
+    "group": "heavy",
+    "sub": "Arch-Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "_Lotus_Weapons_Tenno_Archwing_Melee_Archsword_ArchSwordWeapon",
+    "name": "Veritux",
+    "group": "heavy",
+    "sub": "Arch-Melee",
+    "xp": 3000,
+    "tier": 2
+  },
+  {
+    "id": "sc_earth",
+    "name": "Earth Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1542,
+    "tier": 4
+  },
+  {
+    "id": "sc_venus",
+    "name": "Venus Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1698,
+    "tier": 4
+  },
+  {
+    "id": "sc_mercury",
+    "name": "Mercury Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1240,
+    "tier": 4
+  },
+  {
+    "id": "sc_mars",
+    "name": "Mars Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1820,
+    "tier": 4
+  },
+  {
+    "id": "sc_phobos",
+    "name": "Phobos Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1100,
+    "tier": 4
+  },
+  {
+    "id": "sc_ceres",
+    "name": "Ceres Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1450,
+    "tier": 4
+  },
+  {
+    "id": "sc_jupiter",
+    "name": "Jupiter Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1980,
+    "tier": 4
+  },
+  {
+    "id": "sc_europa",
+    "name": "Europa Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "sc_saturn",
+    "name": "Saturn Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1720,
+    "tier": 4
+  },
+  {
+    "id": "sc_uranus",
+    "name": "Uranus Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1890,
+    "tier": 4
+  },
+  {
+    "id": "sc_neptune",
+    "name": "Neptune Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1750,
+    "tier": 4
+  },
+  {
+    "id": "sc_pluto",
+    "name": "Pluto Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1810,
+    "tier": 4
+  },
+  {
+    "id": "sc_sedna",
+    "name": "Sedna Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 2100,
+    "tier": 4
+  },
+  {
+    "id": "sc_void",
+    "name": "Void Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1950,
+    "tier": 4
+  },
+  {
+    "id": "sc_deimos",
+    "name": "Deimos Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 1200,
+    "tier": 4
+  },
+  {
+    "id": "sc_luacav",
+    "name": "Lua & Zariman Clearance",
+    "group": "starchart",
+    "sub": "Star Chart Nodes",
+    "xp": 2500,
+    "tier": 4
+  },
+  {
+    "id": "sc_sp_earth",
+    "name": "Steel Path: Earth",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1542,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_venus",
+    "name": "Steel Path: Venus",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1698,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_mercury",
+    "name": "Steel Path: Mercury",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1240,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_mars",
+    "name": "Steel Path: Mars",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1820,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_phobos",
+    "name": "Steel Path: Phobos",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1100,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_ceres",
+    "name": "Steel Path: Ceres",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1450,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_jupiter",
+    "name": "Steel Path: Jupiter",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1980,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_europa",
+    "name": "Steel Path: Europa",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1500,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_saturn",
+    "name": "Steel Path: Saturn",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1720,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_uranus",
+    "name": "Steel Path: Uranus",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1890,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_neptune",
+    "name": "Steel Path: Neptune",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1750,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_pluto",
+    "name": "Steel Path: Pluto",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1810,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_sedna",
+    "name": "Steel Path: Sedna",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 2100,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_void",
+    "name": "Steel Path: Void",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1950,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_deimos",
+    "name": "Steel Path: Deimos",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 1200,
+    "tier": 7
+  },
+  {
+    "id": "sc_sp_luacav",
+    "name": "Steel Path: Lua & Zariman",
+    "group": "starchart",
+    "sub": "Steel Path",
+    "xp": 2500,
+    "tier": 7
+  },
+  {
+    "id": "int_rj_tactical_1",
+    "name": "Railjack: Tactical Rank 1",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_tactical_2",
+    "name": "Railjack: Tactical Rank 2",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_tactical_3",
+    "name": "Railjack: Tactical Rank 3",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_tactical_4",
+    "name": "Railjack: Tactical Rank 4",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_tactical_5",
+    "name": "Railjack: Tactical Rank 5",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_tactical_6",
+    "name": "Railjack: Tactical Rank 6",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_tactical_7",
+    "name": "Railjack: Tactical Rank 7",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_tactical_8",
+    "name": "Railjack: Tactical Rank 8",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_tactical_9",
+    "name": "Railjack: Tactical Rank 9",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_tactical_10",
+    "name": "Railjack: Tactical Rank 10",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_piloting_1",
+    "name": "Railjack: Piloting Rank 1",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_piloting_2",
+    "name": "Railjack: Piloting Rank 2",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_piloting_3",
+    "name": "Railjack: Piloting Rank 3",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_piloting_4",
+    "name": "Railjack: Piloting Rank 4",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_piloting_5",
+    "name": "Railjack: Piloting Rank 5",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_piloting_6",
+    "name": "Railjack: Piloting Rank 6",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_piloting_7",
+    "name": "Railjack: Piloting Rank 7",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_piloting_8",
+    "name": "Railjack: Piloting Rank 8",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_piloting_9",
+    "name": "Railjack: Piloting Rank 9",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_piloting_10",
+    "name": "Railjack: Piloting Rank 10",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_gunnery_1",
+    "name": "Railjack: Gunnery Rank 1",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_gunnery_2",
+    "name": "Railjack: Gunnery Rank 2",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_gunnery_3",
+    "name": "Railjack: Gunnery Rank 3",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_gunnery_4",
+    "name": "Railjack: Gunnery Rank 4",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_gunnery_5",
+    "name": "Railjack: Gunnery Rank 5",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_gunnery_6",
+    "name": "Railjack: Gunnery Rank 6",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_gunnery_7",
+    "name": "Railjack: Gunnery Rank 7",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_gunnery_8",
+    "name": "Railjack: Gunnery Rank 8",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_gunnery_9",
+    "name": "Railjack: Gunnery Rank 9",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_gunnery_10",
+    "name": "Railjack: Gunnery Rank 10",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_engineering_1",
+    "name": "Railjack: Engineering Rank 1",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_engineering_2",
+    "name": "Railjack: Engineering Rank 2",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_engineering_3",
+    "name": "Railjack: Engineering Rank 3",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_engineering_4",
+    "name": "Railjack: Engineering Rank 4",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_engineering_5",
+    "name": "Railjack: Engineering Rank 5",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_engineering_6",
+    "name": "Railjack: Engineering Rank 6",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_engineering_7",
+    "name": "Railjack: Engineering Rank 7",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_engineering_8",
+    "name": "Railjack: Engineering Rank 8",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_engineering_9",
+    "name": "Railjack: Engineering Rank 9",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_engineering_10",
+    "name": "Railjack: Engineering Rank 10",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_command_1",
+    "name": "Railjack: Command Rank 1",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_command_2",
+    "name": "Railjack: Command Rank 2",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_command_3",
+    "name": "Railjack: Command Rank 3",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_command_4",
+    "name": "Railjack: Command Rank 4",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_command_5",
+    "name": "Railjack: Command Rank 5",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_command_6",
+    "name": "Railjack: Command Rank 6",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_command_7",
+    "name": "Railjack: Command Rank 7",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_command_8",
+    "name": "Railjack: Command Rank 8",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_command_9",
+    "name": "Railjack: Command Rank 9",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_rj_command_10",
+    "name": "Railjack: Command Rank 10",
+    "group": "starchart",
+    "sub": "Railjack Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_combat_1",
+    "name": "Drifter: Combat Rank 1",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_combat_2",
+    "name": "Drifter: Combat Rank 2",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_combat_3",
+    "name": "Drifter: Combat Rank 3",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_combat_4",
+    "name": "Drifter: Combat Rank 4",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_combat_5",
+    "name": "Drifter: Combat Rank 5",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_combat_6",
+    "name": "Drifter: Combat Rank 6",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_combat_7",
+    "name": "Drifter: Combat Rank 7",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_combat_8",
+    "name": "Drifter: Combat Rank 8",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_combat_9",
+    "name": "Drifter: Combat Rank 9",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_combat_10",
+    "name": "Drifter: Combat Rank 10",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_riding_1",
+    "name": "Drifter: Riding Rank 1",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_riding_2",
+    "name": "Drifter: Riding Rank 2",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_riding_3",
+    "name": "Drifter: Riding Rank 3",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_riding_4",
+    "name": "Drifter: Riding Rank 4",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_riding_5",
+    "name": "Drifter: Riding Rank 5",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_riding_6",
+    "name": "Drifter: Riding Rank 6",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_riding_7",
+    "name": "Drifter: Riding Rank 7",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_riding_8",
+    "name": "Drifter: Riding Rank 8",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_riding_9",
+    "name": "Drifter: Riding Rank 9",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_riding_10",
+    "name": "Drifter: Riding Rank 10",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_gunnery_1",
+    "name": "Drifter: Gunnery Rank 1",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_gunnery_2",
+    "name": "Drifter: Gunnery Rank 2",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_gunnery_3",
+    "name": "Drifter: Gunnery Rank 3",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_gunnery_4",
+    "name": "Drifter: Gunnery Rank 4",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_gunnery_5",
+    "name": "Drifter: Gunnery Rank 5",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_gunnery_6",
+    "name": "Drifter: Gunnery Rank 6",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_gunnery_7",
+    "name": "Drifter: Gunnery Rank 7",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_gunnery_8",
+    "name": "Drifter: Gunnery Rank 8",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_gunnery_9",
+    "name": "Drifter: Gunnery Rank 9",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_gunnery_10",
+    "name": "Drifter: Gunnery Rank 10",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_endurance_1",
+    "name": "Drifter: Endurance Rank 1",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_endurance_2",
+    "name": "Drifter: Endurance Rank 2",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_endurance_3",
+    "name": "Drifter: Endurance Rank 3",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_endurance_4",
+    "name": "Drifter: Endurance Rank 4",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_endurance_5",
+    "name": "Drifter: Endurance Rank 5",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_endurance_6",
+    "name": "Drifter: Endurance Rank 6",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_endurance_7",
+    "name": "Drifter: Endurance Rank 7",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_endurance_8",
+    "name": "Drifter: Endurance Rank 8",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_endurance_9",
+    "name": "Drifter: Endurance Rank 9",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  },
+  {
+    "id": "int_dr_endurance_10",
+    "name": "Drifter: Endurance Rank 10",
+    "group": "starchart",
+    "sub": "Drifter Intrinsics",
+    "xp": 1500,
+    "tier": 4
+  }
+]
