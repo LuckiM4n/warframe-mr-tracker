@@ -153,8 +153,8 @@ function renderTable() {
 
     let ingredientWarning = '';
     if (dependencies[item.name]) {
-      const details = dependencies[item.name].map(d => `${d.count > 1 ? d.count + 'x ' : ''}${d.target}`).join(' & ');
-      ingredientWarning = `<span class="ingredient-alert">⚠️ Do not sell: Required for ${details}</span>`;
+      const details = dependencies[item.name].map(d => `${d.count > 1 ? d.count + 'x for ' : 'for '}${d.target}`).join(' and ');
+      ingredientWarning = `<span class="ingredient-alert">⚠️ Do not sell: Required ${details}</span>`;
     }
 
     row.innerHTML = `
